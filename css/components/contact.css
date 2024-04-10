@@ -1,0 +1,31 @@
+.contacts-black {
+	color: white;
+	background-color: #0A0B0D;
+	margin-top: 60px;
+	outline: 10px solid #0A0B0D;
+	padding: 0px 60px 200px 60px;
+	text-align: center;
+}
+
+#follow-white {
+	font-family: Calibri;
+	color: white;
+	font-size: 36px;
+	font-weight: 360;
+}
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  margin-top: 40px;
+}
+
+.list-inline li {
+  display: inline; 
+  padding: 20px 20px 10px 20px;
+}
+
+.list-inline i {
+	font-size: 40px;
+}
